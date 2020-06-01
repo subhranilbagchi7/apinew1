@@ -1,1 +1,1 @@
-print('testing git from pycham')
+print('testing git frgit statusom pycham')
